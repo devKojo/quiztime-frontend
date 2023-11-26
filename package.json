@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "proxy": "https://lazy-lapel-fox.cyclic.app",
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
